@@ -1,11 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/windows,sass,prepros
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,sass,prepros
-
-### Prepros ###
-# Config Prepros files to ignore
-prepros.cfg
-prepros-6.config
-prepros.config
+# Created by https://www.toptal.com/developers/gitignore/api/windows,sass
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,sass
 
 ### Sass ###
 .sass-cache/
@@ -39,4 +33,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/dev
+# End of https://www.toptal.com/developers/gitignore/api/windows,sass
